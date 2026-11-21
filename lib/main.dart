@@ -2,6 +2,7 @@
 // MOBPROG | Mobile App Development (Flutter)
 // This app computes the tip and the total of a bill.
 // The user types the bill and picks 10%, 15%, or 20%.
+// GitHub repository: https://github.com/geraldbello0208-boop/tip_calculator
 
 // Material widgets (MaterialApp, Scaffold, TextField, SegmentedButton).
 // Flutter 3.47+ moved them from package:flutter/material.dart to material_ui.
